@@ -16,7 +16,7 @@ A holistic women's wellness platform for proactive PCOS/PCOD management, featuri
 * **Database:** SQL for secure, structured health record management.
 
 ## 👥 Team: Hack Breachers
-* **Lead & Backend Developer:** Sraman
+* **Lead & Backend Developer:** Sraman Ghosh
 * **Frontend Lead:** Dona Bhattacharjee
 * **Backend  Lead:** Pritish K. Datta
 * **Documentation**  Devolina Banerjee
